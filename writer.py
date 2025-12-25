@@ -31,7 +31,7 @@ from tools.compression import compress_context_impl
 MAX_ITERATIONS = 300
 TOKEN_LIMIT = 1000000  # Gemini has 1M context window
 COMPRESSION_THRESHOLD = 900000  # Trigger compression at 90% of limit
-MODEL_NAME = "gemini-3-flash-preview"
+MODEL_NAME = "gemini-1.5-flash"
 BACKUP_INTERVAL = 50  # Save backup summary every N iterations
 
 
