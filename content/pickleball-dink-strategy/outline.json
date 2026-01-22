@@ -1,0 +1,128 @@
+{
+  "title": "Pickleball Dink Strategy: How to Trap Opponents & Win the Net",
+  "seo": {
+    "primary_keyword": "pickleball dink strategy",
+    "supporting_keywords": [
+      "dink strategy pickleball",
+      "pickleball dink tips",
+      "dinking in pickleball",
+      "pickleball golden rule",
+      "5 P's of pickleball"
+    ],
+    "url_slug": "/pickleball-dink-strategy",
+    "title": "Pickleball Dink Strategy: How to Trap Opponents & Win the Net",
+    "meta_description": "Learn how to turn pickleball dinks into winning strategies. Discover traps pros use to pressure opponents, force mistakes, and dominate at the net."
+  },
+  "sections": [
+    {
+      "heading": "Introduction: The Dink Is More Than Survival",
+      "type": "intro",
+      "key_points": [
+        "Scene: 20-shot dink rally at the kitchen line",
+        "Definition: soft shot landing in NVZ, used as a weapon at higher levels",
+        "Position: playbook of traps pros use, not generic tips"
+      ],
+      "media": {
+        "video": "Real dink rally ending in forced pop-up (2-3 min)",
+        "diagram_backup": "Neutral dink vs. strategic dink rally outcome"
+      }
+    },
+    {
+      "heading": "Why Dinks Decide the Net Battle",
+      "type": "educational",
+      "key_points": [
+        "Dink controls pace and forces upward contact",
+        "Patience is pressure principle",
+        "Pro insight on control vs survival mindset"
+      ],
+      "internal_link": "Transition Zone Strategy"
+    },
+    {
+      "heading": "The Trap Playbook: Advanced Dink Strategies",
+      "type": "main_content",
+      "traps": [
+        {
+          "name": "Crosscourt Patience → Then Break Pattern",
+          "why": "Crosscourt = safest dink (low net, largest margin)",
+          "how": "Build rhythm crosscourt, then surprise middle or line",
+          "pro_example": "Anna Leigh Waters PPA final example"
+        },
+        {
+          "name": "Attack the Feet Until They Lean — Then Lob",
+          "why": "Consistent dinks to feet force opponents forward",
+          "how": "Once they lean, lob into open space",
+          "anecdote": "The lob isn't cheap — you earn it by dinking first"
+        },
+        {
+          "name": "Confuse Them with the Middle",
+          "why": "Middle dinks create hesitation in doubles",
+          "how": "Mix middle balls into rallies to cause miscommunication",
+          "pro_note": "Riley Newman quote about middle dinks winning rec games"
+        },
+        {
+          "name": "The Patience Play (Mental Warfare)",
+          "why": "Long rallies test nerves more than strokes",
+          "how": "Stay calm, recycle balls, wait for opponent to crack"
+        },
+        {
+          "name": "Partner Pressure — Move as One",
+          "why": "Doubles traps require coordination",
+          "how": "One holds crosscourt, partner poaches middle",
+          "pro_framing": "Six-foot string connecting partners"
+        }
+      ]
+    },
+    {
+      "heading": "Quick Mechanics Refresher",
+      "type": "supplementary",
+      "key_points": [
+        "Contact in front of body",
+        "Soft grip, use shoulder not wrist",
+        "Stay balanced, knees bent at NVZ"
+      ],
+      "internal_link": "How to Hit a Dink in Pickleball"
+    },
+    {
+      "heading": "Avoiding the Mistakes That Blow Your Traps",
+      "type": "warning",
+      "mistakes": [
+        "Overhitting (creates sitters)",
+        "Predictability (always crosscourt)",
+        "Attacking unattackable shots",
+        "Lazy footwork = pop-ups"
+      ]
+    },
+    {
+      "heading": "Drills to Build Smarter Dinks",
+      "type": "practical",
+      "drills": [
+        "Pattern Drill: 5 crosscourts → 1 middle",
+        "Feet-to-Lob Drill: dink until opponent leans → lob",
+        "Middle Drill: 10 middle dinks in a row",
+        "Consistency Drill: rally of 50+ shots"
+      ]
+    },
+    {
+      "heading": "Patience Wins the Dink War",
+      "type": "conclusion",
+      "key_message": "The dink is patience weaponized",
+      "pro_quote": "Ben Johns: 'I don't dink to keep it alive. I dink to take control.'",
+      "cta": "Link to advanced soft game instructionals"
+    }
+  ],
+  "eeat_guidelines": {
+    "credibility_signals": [
+      "Clinic coaching anecdotes (4.0 groups)",
+      "Pro interview insights (Ben Johns, Riley Newman)",
+      "First-person coaching observations"
+    ],
+    "avoid": [
+      "Generic filler",
+      "Fabricated quotes (use coaching observations instead)"
+    ],
+    "media_requirements": {
+      "mandatory": "Video for at least two traps + drills section",
+      "fallback": "Diagrams only if video not feasible"
+    }
+  }
+}
